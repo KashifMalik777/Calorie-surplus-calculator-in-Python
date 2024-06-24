@@ -1,5 +1,5 @@
 # Calorie Surplus Calculator in Python
-<h3>Overview:</h3>
+## Overview:
 <p>The Calorie Surplus Calculator is a simple Python application designed to help users determine their daily calorie surplus needs based on their fitness goals. Whether you aim to gain muscle mass or simply increase your weight, this tool will provide an estimate of the calories you need to consume beyond your maintenance level.</p>
 <h3>Features</h3>
 <ul>
