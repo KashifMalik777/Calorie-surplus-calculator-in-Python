@@ -37,7 +37,7 @@ Enter your activity level (sedentary, light, moderate, active, very active): mod
 
 Your daily maintenance calories are: 2500 kcal
 To gain muscle, you should consume: 2750 kcal per day
-
+<hr>
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
 
