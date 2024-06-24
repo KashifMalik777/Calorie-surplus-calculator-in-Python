@@ -1,13 +1,15 @@
 # Calorie Surplus Calculator in Python
 <h3>Overview:</h3>
-<p>"The Calorie Surplus Calculator is a simple Python application designed to help users determine their daily calorie surplus needs based on their fitness goals. Whether you aim to gain muscle mass or simply increase your weight, this tool will provide an estimate of the calories you need to consume beyond your maintenance level.\n"</p>
-Features
-User Input: Collects basic information such as age, gender, weight, height, and activity level.
-Calorie Calculation: Calculates the Basal Metabolic Rate (BMR) using the Mifflin-St Jeor Equation.
-Activity Multiplier: Adjusts the BMR based on the user's activity level to determine maintenance calories.
-Surplus Recommendation: Suggests an appropriate calorie surplus based on the user's goal (e.g., muscle gain).
-Output: Provides the total daily calories needed to achieve the desired surplus.
-Installation
+<p>The Calorie Surplus Calculator is a simple Python application designed to help users determine their daily calorie surplus needs based on their fitness goals. Whether you aim to gain muscle mass or simply increase your weight, this tool will provide an estimate of the calories you need to consume beyond your maintenance level.</p>
+<h3>Features</h3>
+<ul>
+<li>User Input: Collects basic information such as age, gender, weight, height, and activity level.</li>
+<li>Calorie Calculation: Calculates the Basal Metabolic Rate (BMR) using the Mifflin-St Jeor Equation.</li>
+<li>Activity Multiplier: Adjusts the BMR based on the user's activity level to determine maintenance calories.</li>
+<li>Surplus Recommendation: Suggests an appropriate calorie surplus based on the user's goal (e.g., muscle gain).</li>
+<li>Output: Provides the total daily calories needed to achieve the desired surplus.</li>
+</ul>
+<h3>Installation</h3>
 Clone the repository:
 bash
 Copy code
