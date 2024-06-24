@@ -19,11 +19,6 @@ The Calorie Surplus Calculator is a simple Python application designed to help u
     git clone https://github.com/yourusername/calorie-surplus-calculator.git
     cd calorie-surplus-calculator
     ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the script:
