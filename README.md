@@ -42,8 +42,5 @@ To gain muscle, you should consume: 2750 kcal per day
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
-If you have any questions or feedback, please contact me at yourname@example.com.
+If you have any questions or feedback, please contact me at md.kashif123490@gmail.com.
