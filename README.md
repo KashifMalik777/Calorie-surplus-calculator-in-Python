@@ -29,7 +29,6 @@ The Calorie Surplus Calculator is a simple Python application designed to help u
 3. The calculator will display your daily calorie needs including the surplus for your goal.
 
 ## Example
-
 Enter your age: 25
 Enter your gender (male/female): male
 Enter your weight in kg: 70
@@ -38,6 +37,7 @@ Enter your activity level (sedentary, light, moderate, active, very active): mod
 
 Your daily maintenance calories are: 2500 kcal
 To gain muscle, you should consume: 2750 kcal per day
+
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
 
